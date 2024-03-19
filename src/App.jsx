@@ -6,9 +6,9 @@ function App() {
   
   return (
     <>
-      <h1>hello</h1>
-      <DaisyNav></DaisyNav>
+      {/* <h1>hello</h1> */}
       <Navbar></Navbar>
+      {/* <DaisyNav></DaisyNav> */}
       
     </>
   )
