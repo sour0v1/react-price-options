@@ -1,0 +1,24 @@
+
+{
+    "membership_options": [
+      {
+        "name": "Basic Membership",
+        "features": ["Access to gym facilities."],
+        "price": 29.99,
+        "billing_cycle": "monthly"
+      },
+      {
+        "name": "Premium Membership",
+        "features": ["24/7 gym access", "Free group classes."],
+        "price": 49.99,
+        "billing_cycle": "monthly"
+      },
+      {
+        "name": "Annual Membership",
+        "features": ["24/7 gym access", "Free group classes.","Others"],
+        "price": 499.99,
+        "billing_cycle": "yearly"
+      }
+    ]
+  }
+  

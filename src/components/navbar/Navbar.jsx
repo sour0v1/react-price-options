@@ -33,9 +33,8 @@ const Navbar = () => {
                     }
                 </ul>
 
-                
-                    <button className="px-3 py-2 bg-gray-400 rounded-lg text">Button</button>
-                
+                <button className="px-3 py-2 bg-gray-400 rounded-lg text">Button</button>
+
             </div>
 
         </nav>
